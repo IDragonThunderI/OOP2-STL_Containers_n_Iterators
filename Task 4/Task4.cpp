@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <queue>
 #include <vector>
 #include <cfloat>
@@ -119,7 +119,7 @@ void removeElement(queue<T>& que, const T key)
 int main()
 {
 	system("chcp 1251 > nul");
-	cout << "/* ÇÀÄÀ×À ¹4 */\n\n";
+	cout << "/* Ð—ÐÐ”ÐÐ§Ð â„–4 */\n\n";
 
 	vector<float> flt{ 1.0f, 2.0f, 3.0f, 4.0f, 5.0f };
 	queue<float> queue1;

@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <list>
 #include "../Misc/ATD-time.h"
 using namespace std;
@@ -56,7 +56,7 @@ void removeElement(T& container, const typename T::value_type key)
 int main()
 {
 	system("chcp 1251 > nul");
-	cout << "/* ÇÀÄÀ×À ¹2 */\n\n";
+	cout << "/* Ð—ÐÐ”ÐÐ§Ð â„–2 */\n\n";
 
 	list<TIME> list1{ TIME(), TIME(1, 20, 30, 400), TIME(4, 30, 20, 100), TIME(23, 59, 60, 0), TIME(128, 256, 512, 1024) };
 	print(list1);

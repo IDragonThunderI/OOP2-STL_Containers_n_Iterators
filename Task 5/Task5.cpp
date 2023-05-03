@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <queue>
 #include <vector>
 #include <cfloat>
@@ -178,7 +178,7 @@ void Vector<typename T>::increaseAllElements(T value)
 int main()
 {
 	system("chcp 1251 > nul");
-	cout << "/* ÇÀÄÀ×À ¹5 */\n\n";
+	cout << "/* Ð—ÐÐ”ÐÐ§Ð â„–5 */\n\n";
 
 	vector<float> flt{ 1.0f, 2.0f, 3.0f, 4.0f, 5.0f };
 	Vector<float> vector1(flt);

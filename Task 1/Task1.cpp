@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <list>
 #include <cfloat>
 using namespace std;
@@ -56,7 +56,7 @@ void removeElement(T& container, const typename T::value_type key)
 int main()
 {
 	system("chcp 1251 > nul");
-	cout << "/* ÇÀÄÀ×À ¹1 */\n\n";
+	cout << "/* Ð—ÐÐ”ÐÐ§Ð â„–1 */\n\n";
 
 	list<float> list1{ 1.0f, 2.0f, 3.0f, 4.0f, 5.0f };
 	print(list1);
